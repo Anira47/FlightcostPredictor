@@ -75,4 +75,4 @@ We'd like to express our gratitude to the Streamlit, Scikit-learn, Pandas, and N
 
 ## Contact
 
-If you have any questions, suggestions, or need assistance, please feel free to reach out.Please open an issue on the GitHub repository or contact us at rohitrajcricketer@gmail.com
+If you have any questions, suggestions, or need assistance, please feel free to reach out.Please open an issue on the GitHub repository or contact us at annyanira47@gmail.com
