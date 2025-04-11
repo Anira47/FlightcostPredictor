@@ -22,7 +22,7 @@ To get started with Flight Price Predictor, follow these simple steps:
 
 1. Clone the repository to your local machine:
 
-       git clone https://github.com/rohajrohit/FlightPricePredictor.git
+       git clone https://github.com/Anira47/FlightPricePredictor.git
 2.Navigate to the project directory:
 
     cd FlightPricePredictor
